@@ -29,3 +29,18 @@ entries:
     urls:
     - https://github.com/prometheus-community/helm-charts/releases/download/alertmanager-1.13.0/alertmanager-1.13.0.tgz
     version: 1.13.0
+  joylive-injector:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2024-10-09T11:44:16.782709319Z"
+    description: A Helm chart for webhook automatically injected by JoyLive Agent
+    digest: 58c020408003b53846a86072728607bf8e0404ea5542539c1c22e4dce9d420ef
+    home: https://github.com/jd-opensource/joylive-injector
+    keywords:
+    - joylive
+    name: joylive-injector
+    type: application
+    urls:
+    - https://github.com/jd-opensource/joylive-helm-charts/releases/download/joylive-injector-1.1.0/joylive-injector-1.1.0.tgz
+    version: 1.1.0
+generated: "2024-10-09T11:44:16.782739565Z"
