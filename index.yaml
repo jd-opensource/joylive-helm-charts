@@ -2,6 +2,19 @@ apiVersion: v1
 entries:
   joylive-injector:
   - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2024-10-10T03:06:22.984064891Z"
+    description: A Helm chart for webhook automatically injected by JoyLive Agent
+    digest: e14e1e1a5468941098bd16ab836a600d998e6727ebbaa7801c52bf88718e48c1
+    home: https://github.com/jd-opensource/joylive-injector
+    keywords:
+    - joylive
+    name: joylive-injector
+    type: application
+    urls:
+    - https://github.com/jd-opensource/joylive-helm-charts/releases/download/joylive-injector-1.2.0/joylive-injector-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
     appVersion: 1.1.0
     created: "2024-10-09T11:44:16.782709319Z"
     description: A Helm chart for webhook automatically injected by JoyLive Agent
@@ -14,4 +27,4 @@ entries:
     urls:
     - https://github.com/jd-opensource/joylive-helm-charts/releases/download/joylive-injector-1.1.0/joylive-injector-1.1.0.tgz
     version: 1.1.0
-generated: "2024-10-09T11:44:16.782739565Z"
+generated: "2024-10-10T03:06:22.984076914Z"
